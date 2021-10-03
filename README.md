@@ -1,2 +1,14 @@
 # Channel-Message-Logger
-A message logger that logs messages in a give channel or group chat. 
+Logs Messages In Given Channel/GC Then Sends To Webhook
+<hr>
+How To Use 
+
+- Enter Token
+- Enter Channel/GC ID.
+- Enter Webhook
+
+<hr>
+
+ - discord.gg/rich
+
+
