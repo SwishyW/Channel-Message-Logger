@@ -9,6 +9,6 @@ How To Use
 
 <hr>
 
- - discord.gg/rich
+ - discord.gg/shush
 
 
